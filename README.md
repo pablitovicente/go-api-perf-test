@@ -12,6 +12,7 @@
 ### How do I get set up? ###
 
 * If you followed the first steps you already have a build
+* You may need to tweak your open files/per process files with ulimit!!!
 * Run it: ./perf http://[host]:[port]/[path] [number of request]
 
 ### Contribution guidelines ###
